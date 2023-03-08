@@ -11,3 +11,8 @@
 
 使用書籍 ミック著　「達人に学ぶSQL徹底指南書」
 
+## 環境
+
+MySQL
+DBeaver
+WIndows11
